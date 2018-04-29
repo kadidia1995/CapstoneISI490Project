@@ -1,0 +1,109 @@
+
+.btn-doc {
+    margin-left: 20px;
+}.pad-top {
+    padding-top: 50px;
+    font-size: 17px;
+}
+
+.newbtn{
+    padding:10px 70px !important;
+  }
+
+  .container{
+    padding:10px 0px !important;
+  }
+  
+  .d-form{
+	float: left;
+	padding: 20px;
+	width: 45%;
+	background: #f4f4f4;
+	margin-left:20px;
+	margin-top: 20px;    
+	min-height: 330px;
+}
+
+.d-form input {
+    width: 100%;
+    height: 40px;
+    padding-left: 20px;
+    border-radius: 10px;
+    border: 1px solid;
+    margin-top: 10px;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.p-register input{
+    height:40px;
+    width:500px;
+    border-radius:10px;
+    border:1px solid;
+    padding-left:10px;
+    font-size: 15px;
+}
+.p-register textarea {
+    width:500px;
+    border-radius:10px;
+    border:1px solid;
+    padding-left:10px;
+    font-size: 15px;
+}
+.p-register {
+    position: absolute;
+    left: 30%;
+    right: 30%;
+}
+
+.bt-reg{
+    margin-top:20px;
+}
+
+label {
+    margin: 10px 0px !important;
+}
+
+.log-form {
+    margin-top:100px;
+    max-width: 400px;
+    display: block;
+    margin: 0px auto;
+    border: 1px solid;
+    padding: 50px 30px;
+}
+
+input.log-field{
+    height: 40px;
+    width: 100%;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+input.btn-log {
+    padding: 5px 35px;
+}
+
+tfoot input {
+        width: 100%;
+        padding: 3px;
+        box-sizing: border-box;
+    }
+    tfoot {
+    display: table-row-group;
+}
+
+tfoot input {
+    color: #000;
+}
+    
+    .btn-doc {
+    margin-left: 20px;
+}
+
+#mainav .active a, #mainav a:hover, #mainav li:hover > a {
+    color: inherit !important;
+}

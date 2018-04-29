@@ -1,0 +1,102 @@
+[15-Apr-2018 22:14:35 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 100
+[15-Apr-2018 22:16:17 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 100
+[17-Apr-2018 22:18:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 26
+[17-Apr-2018 22:25:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 26
+[18-Apr-2018 00:54:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 26
+[18-Apr-2018 07:55:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 26
+[18-Apr-2018 07:56:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 26
+[18-Apr-2018 08:34:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 26
+[18-Apr-2018 08:34:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 26
+[18-Apr-2018 08:38:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 26
+[18-Apr-2018 08:49:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 26
+[18-Apr-2018 08:50:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 26
+[18-Apr-2018 09:03:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 26
+[18-Apr-2018 09:29:04 UTC] PHP Parse error:  syntax error, unexpected 'Name' (T_STRING), expecting ',' or ';' in /home/corporatea2z/public_html/extra/doc/profile.php on line 30
+[18-Apr-2018 09:29:05 UTC] PHP Parse error:  syntax error, unexpected 'Name' (T_STRING), expecting ',' or ';' in /home/corporatea2z/public_html/extra/doc/profile.php on line 30
+[18-Apr-2018 09:29:06 UTC] PHP Parse error:  syntax error, unexpected 'Name' (T_STRING), expecting ',' or ';' in /home/corporatea2z/public_html/extra/doc/profile.php on line 30
+[18-Apr-2018 09:29:30 UTC] PHP Parse error:  syntax error, unexpected '$resfetch' (T_VARIABLE), expecting ',' or ';' in /home/corporatea2z/public_html/extra/doc/profile.php on line 30
+[18-Apr-2018 09:29:32 UTC] PHP Parse error:  syntax error, unexpected '$resfetch' (T_VARIABLE), expecting ',' or ';' in /home/corporatea2z/public_html/extra/doc/profile.php on line 30
+[18-Apr-2018 09:29:59 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/corporatea2z/public_html/extra/doc/profile.php on line 30
+[18-Apr-2018 09:33:36 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/corporatea2z/public_html/extra/doc/profile.php on line 30
+[18-Apr-2018 09:33:45 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/corporatea2z/public_html/extra/doc/profile.php on line 30
+[18-Apr-2018 09:35:10 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/corporatea2z/public_html/extra/doc/profile.php on line 30
+[18-Apr-2018 18:54:22 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 115
+[18-Apr-2018 20:39:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 26
+[18-Apr-2018 21:50:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 26
+[18-Apr-2018 22:32:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 55
+[18-Apr-2018 22:32:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 55
+[18-Apr-2018 22:50:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 46
+[18-Apr-2018 22:53:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[18-Apr-2018 23:11:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 46
+[19-Apr-2018 00:43:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 46
+[19-Apr-2018 00:44:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 46
+[19-Apr-2018 01:02:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 46
+[19-Apr-2018 02:01:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 46
+[19-Apr-2018 02:03:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 46
+[19-Apr-2018 02:54:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 46
+[19-Apr-2018 03:07:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 46
+[19-Apr-2018 17:28:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 46
+[19-Apr-2018 19:03:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 46
+[20-Apr-2018 11:48:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 46
+[20-Apr-2018 12:28:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 46
+[20-Apr-2018 18:32:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 46
+[20-Apr-2018 18:33:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 46
+[20-Apr-2018 18:42:38 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[20-Apr-2018 18:53:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 46
+[20-Apr-2018 20:13:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 48
+[20-Apr-2018 20:25:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 48
+[20-Apr-2018 20:25:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 48
+[20-Apr-2018 20:29:47 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[20-Apr-2018 20:50:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 26
+[20-Apr-2018 21:31:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 48
+[20-Apr-2018 21:51:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 137
+[20-Apr-2018 21:53:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/corporatea2z/public_html/extra/doc/doctorregistration.php:2) in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 3
+[20-Apr-2018 21:53:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch6.php on line 60
+[20-Apr-2018 21:56:56 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 137
+[20-Apr-2018 22:00:13 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[20-Apr-2018 22:03:03 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[20-Apr-2018 22:10:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[20-Apr-2018 22:11:33 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[20-Apr-2018 22:12:07 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[20-Apr-2018 22:12:36 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[20-Apr-2018 22:14:29 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[20-Apr-2018 22:15:29 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[20-Apr-2018 22:17:03 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[20-Apr-2018 22:17:28 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[20-Apr-2018 22:17:31 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[20-Apr-2018 22:18:48 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[20-Apr-2018 22:19:28 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[20-Apr-2018 22:21:54 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[20-Apr-2018 22:25:40 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[20-Apr-2018 22:31:27 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[20-Apr-2018 22:31:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[20-Apr-2018 22:32:13 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[20-Apr-2018 22:32:39 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 134
+[20-Apr-2018 22:49:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/corporatea2z/public_html/extra/doc/doctorregistration.php:20) in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 155
+[20-Apr-2018 22:51:06 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 143
+[20-Apr-2018 22:51:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch6.php on line 60
+[20-Apr-2018 22:52:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch6.php on line 59
+[20-Apr-2018 22:58:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch6.php on line 59
+[20-Apr-2018 23:02:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch6.php on line 51
+[20-Apr-2018 23:05:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch6.php on line 51
+[20-Apr-2018 23:05:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch6.php on line 51
+[20-Apr-2018 23:07:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch6.php on line 51
+[20-Apr-2018 23:25:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 48
+[20-Apr-2018 23:48:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 48
+[21-Apr-2018 00:04:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 48
+[21-Apr-2018 00:08:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 48
+[21-Apr-2018 00:19:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 48
+[21-Apr-2018 00:38:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 48
+[21-Apr-2018 01:14:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 48
+[21-Apr-2018 02:40:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 48
+[21-Apr-2018 02:42:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 48
+[21-Apr-2018 02:45:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 48
+[21-Apr-2018 04:02:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 48
+[21-Apr-2018 09:41:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 48
+[21-Apr-2018 16:19:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 26
+[21-Apr-2018 16:29:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 26
+[21-Apr-2018 16:56:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 26
+[21-Apr-2018 16:56:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 26
+[21-Apr-2018 17:16:45 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/corporatea2z/public_html/extra/doc/doctorregistration.php on line 146
+[21-Apr-2018 20:12:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 48
+[21-Apr-2018 20:42:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/corporatea2z/public_html/extra/doc/datasearch5.php on line 48
